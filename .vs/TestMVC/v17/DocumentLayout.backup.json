@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|c:\\users\\thitr\\desktop\\ki 5\\prn212\\temp\\testmvc\\testmvc\\testmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0959C722-F96B-4923-A424-7946D3817672}|TestMVC\\TestMVC.csproj|solutionrelative:testmvc\\testmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TestMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TestMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:08:28.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TestMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TestMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:54:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TestMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TestMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:35:07.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:34:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TestMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TestMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:34:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Program.cs",
+              "RelativeDocumentMoniker": "TestMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Program.cs",
+              "RelativeToolTip": "TestMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:33:55.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestMVC",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\TestMVC.csproj",
+              "RelativeDocumentMoniker": "TestMVC\\TestMVC.csproj",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\TestMVC.csproj",
+              "RelativeToolTip": "TestMVC\\TestMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T08:33:48.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "TestMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\appsettings.json",
+              "RelativeToolTip": "TestMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T08:33:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thitr\\Desktop\\Ki 5\\PRN212\\Temp\\TestMVC\\TestMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:28:23.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
